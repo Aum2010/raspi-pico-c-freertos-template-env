@@ -10,7 +10,7 @@ Hardware : https://inex.co.th/home/product/ax-pico/ [ From Maker Faire ]
 
 ## Configuration "settings.json" to Select Project
 
-<img title="a title" alt="Alt text" src="/img/Build-Select-Project.png>
+<img title="a title" alt="Alt text" src="/img/Build-Select-Project.png">
 
 ## Print on Terminal
 
