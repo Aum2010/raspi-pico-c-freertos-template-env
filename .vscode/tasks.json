@@ -5,7 +5,8 @@
 			"type": "command",
 			"command": "shellCommand.execute",
 			"args": {
-				"command": "cat ./build/elf_path.txt",
+				// "command": "cat ./build/elf_path.txt",
+				"command": "cat ./build/freertos_demo.elf",
 				"useFirstResult": "true",
 			}
 		}

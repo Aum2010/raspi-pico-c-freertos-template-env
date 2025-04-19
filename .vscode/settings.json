@@ -29,5 +29,5 @@
         "CLICOLOR_FORCE": "1"
     },
     // "cmake.sourceDirectory": "/workspaces/ws-ras-pi-container/workspace/test_poject",
-    "cmake.sourceDirectory": "/workspaces/ws-ras-pi-container/workspace/freertos_test_project",
+    "cmake.sourceDirectory": "/workspaces/raspi-pico-c-freertos-template-env/workspace/freertos_test_project",
 }

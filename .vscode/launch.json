@@ -5,8 +5,8 @@
             "type": "command",
             "command": "shellCommand.execute",
             "args": {
-                "command": "cat ./build/elf_path.txt",
-                "useFirstResult": "true",
+                "command": "echo ./build/freertos_demo.elf",
+                "useFirstResult": "true"
             }
         }
     ],
@@ -29,7 +29,7 @@
             ],
             "searchDir": [
                 "${env:PICO_SDK_PATH}"
-            ],
+            ]
         }
     ]
 }
